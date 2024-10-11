@@ -9,6 +9,3 @@ elif 60 <= score < 70:
     print("Grade D")
 elif 0 <= score < 60:
     print("Input must be a number from 1-100. PLease try again.")
-
-
-

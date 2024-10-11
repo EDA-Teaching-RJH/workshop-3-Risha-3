@@ -3,3 +3,4 @@ if day == "SATURDAY" or day == "SUNDAY":
     print("It's the weekend!")
 else:
     print("It's a weekday.")
+    
